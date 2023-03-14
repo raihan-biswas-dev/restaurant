@@ -26,6 +26,7 @@ function Testimonials() {
           <AiFillStar />
           <AiFillStar />
         </div>
+        <h2>John Doe</h2>
       </div>
     </div>
   );

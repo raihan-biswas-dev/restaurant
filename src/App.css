@@ -206,6 +206,10 @@ nav {
 .footer-icons {
     margin-top: 2.5rem;
 }
+.footer-icons .icon {
+    cursor: pointer;
+}
+
 .footer-icons svg {
     font-size: 1.5rem;
     margin-right: 1.25rem;
@@ -305,6 +309,17 @@ nav {
     display: flex;
     align-items: center;
     font-weight: 600;
+}
+
+.footer-wrapper {
+    display: flex;
+    margin-top: 10rem;
+}
+
+.footer-container {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
 }
 
 @media (max-width: 1000px) {

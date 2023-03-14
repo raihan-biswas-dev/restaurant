@@ -4,6 +4,8 @@ import About from "./components/About";
 import Work from "./components/Work";
 import Testimonials from "./components/Testimonials";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+import Copyright from "./components/Copyright";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <Work />
       <Testimonials />
       <Contact />
+      <Footer />
+      <Copyright />
     </div>
   );
 }
